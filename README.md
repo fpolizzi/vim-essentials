@@ -1,6 +1,6 @@
 # Vim Essentials
 
-## Saving And Quitting
+## Saving And Quitting (Emergency: How to get out of this editor?)
 
 | Shortcut | Action                   |
 | -------- | ------------------------ |
